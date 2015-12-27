@@ -1,6 +1,6 @@
 # Dirt Rally Liveries
 
-This is a repository of custom car models that I have created for [DiRT Rally](http://dirtgame.com/). There is no car editor for this game, all of this work is custom work in Photoshop.
+This is a repository of custom car models that I have created for [DiRT Rally](http://dirtgame.com/). There is no car editor for this game, all of this is custom work done in Photoshop.
 
 ## Instructions
 
