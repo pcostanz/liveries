@@ -19,9 +19,9 @@ identify the folder name that the livery goes with.
 
 [![Planet Express Opel Space Kadett](https://raw.githubusercontent.com/pcostanz/liveries/master/kadett/planet_express/cover.jpg "Planet Express Opel Space Kadett")](https://github.com/pcostanz/liveries/tree/master/kadett/planet_express)
 
-### [BMW E30 M3 MACHO](https://github.com/pcostanz/liveries/tree/master/m3r/macho)
+### [BMW E30 M3 MACHO](https://github.com/pcostanz/liveries/tree/master/m3/macho)
 
-[![BMW E30 M3 MACHO](https://raw.githubusercontent.com/pcostanz/liveries/master/m3/macho/cover.jpg "BMW E30 M3 MACHO")](https://github.com/pcostanz/liveries/tree/master/m3r/macho)
+[![BMW E30 M3 MACHO](https://raw.githubusercontent.com/pcostanz/liveries/master/m3/macho/cover.jpg "BMW E30 M3 MACHO")](https://github.com/pcostanz/liveries/tree/master/m3/macho)
 
 ### [Volkswagen Muerto Polo](https://github.com/pcostanz/liveries/tree/master/polo/muerto)
 
