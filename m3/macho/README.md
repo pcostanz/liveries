@@ -8,3 +8,6 @@ File: You'll want to move the `m3r_tex_high_41.pssg` file.
 
 ### Videos
 
+https://gfycat.com/TastyEveryAnnashummingbird
+
+https://gfycat.com/WebbedDishonestAmericanindianhorse
