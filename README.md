@@ -1,9 +1,11 @@
 # Dirt Rally Liveries
 
-In the top right, you can download all of the liveries in this repository
-by pressing "Download ZIP".
+This is a repository of custom car models that I have created for [DiRT Rally](http://dirtgame.com/). There is no car editor for this game, all of this work is custom work in Photoshop.
 
 ## Instructions
+
+In the top right, you can download all of the liveries in this repository
+by pressing "Download ZIP".
 
 To Install liveries, you will need to overwrite existing game liveries located
 in your Dirt Rally installation game files.
