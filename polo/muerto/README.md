@@ -5,3 +5,9 @@ File: You'll want to move the `pol_tex_high_00.pssg` file.
 ### Volkswagen Muerto Polo
 
 ![Volkswagen Muerto Polo](https://github.com/pcostanz/liveries/blob/master/polo/muerto/cover.jpg "Volkswagen Muerto Polo")
+
+### Videos
+
+https://gfycat.com/PracticalDenseIberiannase
+
+https://gfycat.com/IllustriousFatChipmunk
