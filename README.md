@@ -15,17 +15,15 @@ identify the folder name that the livery goes with.
 
 ## Current Liveries
 
-### Opel Kadett
+### Planet Express Opel Space Kadett
 
-#### Planet Express
+![Planet Express Opel Space Kadett](https://github.com/pcostanz/liveries/blob/master/kadett/planet_express/cover.jpg "Planet Express Opel Space Kadett")
 
-![Planet Express](http://i.imgur.com/9yixy6D.jpg "Opel Kadett Planet Express")
-![Planet Express](http://i.imgur.com/sLRAIcb.jpg "Opel Kadett Planet Express")
-![Planet Express](http://i.imgur.com/uJLvCxp.jpg "Opel Kadett Planet Express")
-![Planet Express](http://i.imgur.com/evrdwt9.jpg "Opel Kadett Planet Express")
-![Planet Express](http://i.imgur.com/LcoRY9b.jpg "Opel Kadett Planet Express")
-![Planet Express](http://i.imgur.com/lXrGv8t.jpg "Opel Kadett Planet Express")
-![Planet Express](http://i.imgur.com/E2q0EJv.jpg "Opel Kadett Planet Express")
-![Planet Express](http://i.imgur.com/bs6OcJT.jpg "Opel Kadett Planet Express")
+### BMW E30 M3 MACHO
 
+![BMW E30 M3 MACHO](https://github.com/pcostanz/liveries/blob/master/m3r/macho/cover.jpg "BMW E30 M3 MACHO")
+
+### Volkswagen Muerto Polo
+
+![Volkswagen Muerto Polo](https://github.com/pcostanz/liveries/blob/master/polo/muerto/cover.jpg "Volkswagen Muerto Polo")
 
